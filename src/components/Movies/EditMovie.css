@@ -1,0 +1,12 @@
+label {
+    font-weight: bold;
+}
+
+button, a {
+    margin-right: 10px;
+}
+
+.buttons {
+    margin-bottom: 50px;
+}
+
